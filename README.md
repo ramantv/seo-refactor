@@ -8,6 +8,6 @@
 * replaced banner image with a semantic figure tag
 
 ### Links
-Github repository: https://github.com/ramantv/seo-refactor
-Deployed Application: https://ramantv.github.io/seo-refactor/
+* Github repository: https://github.com/ramantv/seo-refactor
+* Deployed Application: https://ramantv.github.io/seo-refactor/
 
